@@ -1,4 +1,8 @@
-# Dog-Years
+# Disclaimer
+
+This is a project from my full-stack engineering career path on codecademy.
+
+## Dog-Years
 
 This is a project from my full-stack engineering career path on codecademy.
 
@@ -6,6 +10,4 @@ Dogs mature at a faster rate than human beings. We often say a dog’s age can b
 
 My program converts human age to Dog age .
 
-## Disclaimer
-
-My code is not so perfect. Feel free to correct it where possible.
+//My code is not so perfect. Feel free to correct it where possible.
