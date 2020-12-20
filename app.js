@@ -1,5 +1,5 @@
 //my age
-const myAge= 9;
+const myAge= 18;
 
 //early years
 let earlyYears= 2;
